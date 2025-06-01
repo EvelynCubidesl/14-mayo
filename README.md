@@ -6,6 +6,8 @@ Este repositorio documenta el desarrollo, simulación y control de mecanismos f�
 
 Desarrollar un sistema de control en cascada para mecanismos físicos (posición y velocidad), integrando simulación en Simulink/Simscape con pruebas físicas mediante hardware-in-the-loop (HIL). El sistema debe ser capaz de controlar un mecanismo diseñado por el estudiante, el cual será accionado por un motor DC real.
 
+![image](https://github.com/user-attachments/assets/88582ff1-316f-4cd7-b5e7-01de84de6f4f)
+
 ##  Plataformas y Plantas Utilizadas
 
 - **Péndulo Invertido**  
@@ -55,6 +57,9 @@ Desarrollar un sistema de control en cascada para mecanismos físicos (posición
 - Comparación entre simulación y comportamiento físico.
 - Evaluación de eficiencia y precisión del sistema.
 
+![image](https://github.com/user-attachments/assets/6e2e7c96-fb82-4fe5-a82c-4dc27bcc9342)
+![image](https://github.com/user-attachments/assets/427f527a-47e0-43f2-bd71-5169c9fed1c1)
+
 ##  Consideraciones de Diseño
 
 - El mecanismo debe cumplir una función real (ej. etiquetado, soldadura).
@@ -83,9 +88,12 @@ Desarrollar un sistema de control en cascada para mecanismos físicos (posición
 
 - Diseño del mecanismo: Materiales ligeros, montaje al eje del motor.
 - Simulación: Validación previa en entorno digital.
+ ![image](https://github.com/user-attachments/assets/52eaa468-ca31-4bd1-9aac-7f3f62efb20b)
 - Control: Cascada con retroalimentación.
 - Pruebas físicas: Validación con sensores reales.
 - Análisis de datos: Curvas de corriente, velocidad, posición.
+![image](https://github.com/user-attachments/assets/022fb217-e56e-416b-91e8-d612a10740b0)
+![image](https://github.com/user-attachments/assets/dcbbadad-57c0-4524-a9d8-d6bc4f72c70a)
 
 ##  Conclusión
 
